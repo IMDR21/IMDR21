@@ -1,28 +1,28 @@
-👋 Hi, I’m @IMDR21
+👋 Hey everyone! @IMDR21 is here!
 
-I’m a passionate web developer with a strong interest in front-end development, web design, and user experience (UX). I'm always excited to explore new technologies and improve my skills in the ever-evolving world of web development.
+A few things about me – I am a web developer with a particular affinity towards front-end development, web designing, and the user experience. I take pride in being a web developer since there are always new things to learn and skills to hone in this field. 
 🔍 What I’m working on
 
-    🌱 Currently learning React and how to build interactive web applications with RESTful APIs.
-    💻 I'm diving into CSS animations to create more engaging and dynamic user interfaces.
+        🌱 Learning React and building interactive web applications with RESTful services.
+        💻 Also, I am getting into CSS animations to make the interface more interesting and interactive.
 
-🤝 Let's Collaborate!
+🤝 Let’s work together!
 
-I'm always open to contributing to open-source projects, especially those focused on:
+I’m keen on lending my hand to open source projects and in particular to the ones that are about:
 
-    Front-end frameworks
-    UI/UX improvements
-    Community-driven web tools
+    - Front end technology
+    - User Interface/User Experience
+    - Internet-community oriented waved services
 
-If you're working on any exciting projects, feel free to reach out!
-📬 How to Reach Me
+Do not hesitate to contact me if you have any interesting works in progress.
+📬 Contact me in any way you like
 
-You can contact me via email:
+You can contact me through:
 idelosreyes158@gmail.com
-🏳️‍🌈 Pronouns
+🏳 Pronouns
 
     He/Him
 
-⚡ Fun Fact
+✨ Did You Know
 
-    I enjoy creating digital art and experimenting with CSS animations in my spare time. It's always fun to bring a little extra flair to websites!
+                In addition to my work, I also practice digital art designing and in particular I create a lot of CSS animations. Of course, it is always nice to spice up a few webpages!
